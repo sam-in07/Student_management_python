@@ -11,3 +11,6 @@ pip install django
 (myevn) PS E:\suii_manage> django-admin startproject django_proo (not this recomd)
 follow this 
 (myevn) PS E:\suii_manage> django-admin startproject django_proo .
+
+python manage.py runserver
+
